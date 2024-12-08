@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- 应用的主背景颜色 -->
+        <item name="android:windowBackground">@color/white</item>
+        <!-- 状态栏颜色 -->
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <!-- 导航栏颜色 -->
+        <item name="android:navigationBarColor">@color/colorPrimaryDark</item>
+        <!-- 文本颜色（默认情况） -->
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

@@ -20,8 +20,6 @@ import java.util.Date;
 
 public class AddActivity extends AppCompatActivity {
 
-    private EditText okhh;
-
     private EditText etTitle,etContext;
 
     private NoteDbOpenHelper mNoteDbOpenHelper;
